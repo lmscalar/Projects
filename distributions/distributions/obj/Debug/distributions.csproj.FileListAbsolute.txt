@@ -1,0 +1,5 @@
+/Users/lmolina/Projects/distributions/distributions/bin/Debug/distributions.exe
+/Users/lmolina/Projects/distributions/distributions/bin/Debug/distributions.pdb
+/Users/lmolina/Projects/distributions/distributions/obj/Debug/distributions.csprojAssemblyReference.cache
+/Users/lmolina/Projects/distributions/distributions/obj/Debug/distributions.exe
+/Users/lmolina/Projects/distributions/distributions/obj/Debug/distributions.pdb

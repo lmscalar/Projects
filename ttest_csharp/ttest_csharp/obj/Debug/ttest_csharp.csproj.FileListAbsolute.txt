@@ -1,0 +1,5 @@
+/Users/lmolina/Projects/ttest_csharp/ttest_csharp/bin/Debug/ttest_csharp.exe
+/Users/lmolina/Projects/ttest_csharp/ttest_csharp/bin/Debug/ttest_csharp.pdb
+/Users/lmolina/Projects/ttest_csharp/ttest_csharp/obj/Debug/ttest_csharp.csprojAssemblyReference.cache
+/Users/lmolina/Projects/ttest_csharp/ttest_csharp/obj/Debug/ttest_csharp.exe
+/Users/lmolina/Projects/ttest_csharp/ttest_csharp/obj/Debug/ttest_csharp.pdb

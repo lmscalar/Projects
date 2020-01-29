@@ -1,0 +1,6 @@
+/Users/lmolina/Projects/consoleApp/consoleApp/bin/Debug/consoleApp.exe
+/Users/lmolina/Projects/consoleApp/consoleApp/bin/Debug/consoleApp.pdb
+/Users/lmolina/Projects/consoleApp/consoleApp/obj/x86/Debug/consoleApp.csprojAssemblyReference.cache
+/Users/lmolina/Projects/consoleApp/consoleApp/obj/x86/Debug/consoleApp.csproj.CoreCompileInputs.cache
+/Users/lmolina/Projects/consoleApp/consoleApp/obj/x86/Debug/consoleApp.exe
+/Users/lmolina/Projects/consoleApp/consoleApp/obj/x86/Debug/consoleApp.pdb

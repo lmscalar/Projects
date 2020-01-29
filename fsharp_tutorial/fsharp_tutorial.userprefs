@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2E253BB4-58DE-46B5-AA47-91C28279C4F4}|Default">
+  <MonoDevelop.Ide.ItemProperties.fsharp__tutorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="fsharp_tutorial/Tutorial.fs">
+    <Files>
+      <File FileName="fsharp_tutorial/Tutorial.fs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
